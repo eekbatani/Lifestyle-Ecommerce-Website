@@ -29,16 +29,22 @@ footer{padding: 10px 0;
        position:fixed;
        bottom: 0; 
        width: 90%; }
-.row_style{margin-top: 70px;
+
+.row_style {
+  margin-top: 70px;
 }
- h2{font-weight: bolder; 
- }
- .jumbotron_style{margin-top: 70px;
- }
- .table_style{margin-top: 70px;
- }
-  h4{font-weight: bolder;
-  }
- .container_style{margin-top: 80px;
- }
+h2 {
+ font-weight: bolder; 
+}
+.jumbotron_style{margin-top: 70px;
+}
+.table_style {
+  margin-top: 70px;
+}
+h4 {
+ font-weight: bolder;
+}
+.container_style {
+  margin-top: 80px;
+}
          
