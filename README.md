@@ -7,6 +7,7 @@
 ## To Run:
 
 - Ensure Angular CLI is installed
+- Ensure you are inside the "ecommerce" directory on you terminal
 - Enter "ng serve --open"
 - The app should compile and run on a local port. A tab will automatically open in your default browser. 
 
